@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1589298345 source:f:\data\enseignement\l3maef\2019-2020\projets\rk\main.cpp
+	<iostream>
+	"EquaDiff.h"
+	"equadiff1.h"
+	"equadiff2.h"
+	"RungeKutta.h"
+
+1588693762 f:\data\enseignement\l3maef\2019-2020\projets\rk\include\equadiff.h
+
+1588691169 source:f:\data\enseignement\l3maef\2019-2020\projets\rk\src\equadiff.cpp
+	"EquaDiff.h"
+
+1588694265 source:f:\data\enseignement\l3maef\2019-2020\projets\rk\src\equadiff1.cpp
+	"equadiff1.h"
+
+1588693951 f:\data\enseignement\l3maef\2019-2020\projets\rk\include\equadiff1.h
+	"EquaDiff.h"
+
+1589295619 source:f:\data\enseignement\l3maef\2019-2020\projets\rk\src\rungekutta.cpp
+	"RungeKutta.h"
+	"math.h"
+
+1589293206 f:\data\enseignement\l3maef\2019-2020\projets\rk\include\rungekutta.h
+	"EquaDiff.h"
+
+1589297591 source:f:\data\enseignement\l3maef\2019-2020\projets\rk\src\equadiff2.cpp
+	"equadiff2.h"
+
+1589297672 f:\data\enseignement\l3maef\2019-2020\projets\rk\include\equadiff2.h
+	"EquaDiff.h"
+
